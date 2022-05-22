@@ -1,0 +1,5 @@
+project: rnshah9/shellcode
+target: shellcode
+
+cmds:
+  - cmd: /repo/disasm/disasm @@
