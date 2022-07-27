@@ -2,4 +2,4 @@ project: shellcode
 target: disasm
 
 cmds:
-  - cmd: /repo/disasm/disasm @@
+  - cmd: /disasm @@
